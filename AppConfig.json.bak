@@ -1,0 +1,7 @@
+[{"Configurations":[]},
+{"Settings":{"frmver":"0.0","appdisplay":"projectsource","apporentationval":"10","applang":"10","stpg":101002523713,"theme":"1","tmzn":"I","tmeot":"1","usrmt":"1","mblepack":"projectsource","IDEWidth":318,"IDEHeight":560,"Theme":"blue"}},
+{"MobileConfig":
+    {"androidDebug":{"advercode":1,"advername":"1.0","adminsdk":19,"adtarsdk":28,"adbundleid":"com.organization.projectsource","adappname":"","adappslno":101000002744},
+    "androidRelease":{"arvercode":1,"arvername":"1.0","arminsdk":19,"artarsdk":28,"arbundleid":"com.organization.projectsource","arappname":"","arkeystorefile":"","arusername":"","arstorepswd":"","arkeypswd":"","arappslno":"","arkeystoreslno":""},
+    "iosDebug":{"idprovisionalFile":"","idteam":"","idcertificate":"","idcertificatepswd":"","idvercode":1,"idvername":"","idbundleid":"com.oreops.projectsource","idtardvc":1,"idappicon":"","idprovisionalFileslno":"","idcertificateslno":"","idappiconslno":""},
+    "iosRelease":{"irprovisionalFile":"","irteam":"","ircertificate":"","ircertificatepswd":"","irvercode":1,"irvername":"","irbundleid":"com.oreops.projectsource","irtardvc":1,"irappicon":"","irprovisionalFileslno":"","ircertificateslno":"","irappiconslno":""}}}]

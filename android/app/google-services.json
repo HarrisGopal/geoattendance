@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "303055924729",
+    "project_id": "firestore-8a30f",
+    "storage_bucket": "firestore-8a30f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303055924729:android:05e635ae2dcfe1a0f66128",
+        "android_client_info": {
+          "package_name": "com.harris.geoattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303055924729-cg71us69op0pannhom61g0gmhv2mlhsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpBipMP_aTrsPWJ-2X2s95l8nptSYL7-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303055924729-cg71us69op0pannhom61g0gmhv2mlhsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

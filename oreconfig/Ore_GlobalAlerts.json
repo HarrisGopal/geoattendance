@@ -1,0 +1,54 @@
+[
+    {
+     "No.": 1,
+     "Type": "UI",
+     "Category": "Alert",
+     "Message_Code": "SMC001",
+     "Title": "{messagecode}:Control Data Bind",
+     "Message": "Control:{controlname},Model:{modelname} - Model data not support to bind.",
+     "Language": "English",
+     "Icon": "WRNG",
+     "Message_Button": "NONE",
+     "Description": "{controlname}> - Is replaced with control caption,{modelname} -is replacedwith model name.",
+     "Version No.": "V1"
+    },
+    {
+     "No.": 2,
+     "Type": "UI",
+     "Category": "Alert",
+     "Message_Code": "SMC002",
+     "Title": "{messagecode}:Data Validation",
+     "Message": "Control:{controlname},Model:{modelname} - Model data not valied. Error:{errormessage}.",
+     "Language": "English",
+     "Icon": "DGR",
+     "Message_Button": "NONE",
+     "Description": "{controlname}> - Is replaced with control caption,{modelname} -is replaced with model name.{errormessage} - is replaced with execeiption error message.",
+     "Version No.": "V1"
+    },
+    {
+     "No.": 3,
+     "Type": "UI",
+     "Category": "Alert",
+     "Message_Code": "SMC003",
+     "Title": "{messagecode}:API Response",
+     "Message": "Control:{controlname},Status Code:{statuscode}, Error Message:{errormessage}",
+     "Language": "English",
+     "Icon": "WRNG",
+     "Message_Button": "NONE",
+     "Description": "{controlname}> - Is replaced with control caption,{modelname} -is replaced with model name.{errormessage} - is replaced with execeiption error message,{statuscode} - API Status Code",
+     "Version No.": "V1"
+    },
+    {
+        "No.": 3,
+        "Type": "UI",
+        "Category": "Alert",
+        "Message_Code": "SMC004",
+        "Title": "{messagecode}:Network",
+        "Message": "Network is not Available",
+        "Language": "English",
+        "Icon": "WRNG",
+        "Message_Button": "NONE",
+        "Description": "",
+        "Version No.": "V1"
+       }
+   ]
